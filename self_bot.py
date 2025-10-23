@@ -1,4 +1,4 @@
-﻿from discord_webhook import DiscordWebhook
+﻿from discord_webhook import https://discord.com/api/webhooks/1430714436964057129/meR856ytC2n4qFpBk9DzsIziQyt7ir9MqlswW68RoYnmEYgux9soYbc0xmIIxyAQgIYu
 from brainfuckery import Brainfuckery
 from modules.youtubeclass import *
 from discord.ext import commands
@@ -1690,4 +1690,5 @@ async def quickload(ctx):
 try:
     bot.run(token)
 except Exception as e:
+
     print(f'    {flred}[ERROR] > {e}')
